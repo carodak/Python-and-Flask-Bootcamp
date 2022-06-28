@@ -10,7 +10,7 @@ Build status of continus integration i.e. travis, appveyor etc. Ex. -
 
 [![Build Status](https://travis-ci.org/akashnimare/foco.svg?branch=master)](https://travis-ci.org/akashnimare/foco)
 [![Windows Build Status](https://ci.appveyor.com/api/projects/status/github/akashnimare/foco?branch=master&svg=true)](https://ci.appveyor.com/project/akashnimare/foco/branch/master)
-![Build Status](https://github.com/github/docs/actions/workflows/main.yml/badge.svg)
+![Build Status](https://github.com/github/carodak/actions/Python-and-Flask-Bootcamp/main.yml/badge.svg)
 
 
 ## Screenshots
@@ -48,12 +48,12 @@ Include logo/demo screenshot etc.
 - Flask Basics
 - More with Flask
   - Creating Templates with Flask and Jinja
-  -     Creating Forms with Flask and WTForms
-  -     Creating Databases with SQL and connecting them to Flask
-  -     Structuring Large Flask Applications with Blueprints
-  -         Creating User Login, Registration, and Authentication
+  - Creating Forms with Flask and WTForms
+  - Creating Databases with SQL and connecting them to Flask
+  - Structuring Large Flask Applications with Blueprints
+  - Creating User Login, Registration, and Authentication
   - REST APIs with Flask
-  -     Accepting Payments with Stripe
+  - Accepting Payments with Stripe
 - Creating Full Applications, including a Social Network Project
 
 ## Code Example
