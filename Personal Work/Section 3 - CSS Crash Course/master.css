@@ -1,0 +1,44 @@
+/* https://en.wikipedia.org/wiki/List_of_typefaces_included_with_macOS
+https://fonts.google.com/
+ */
+
+body{
+  background: lightgray;
+  font-family: 'Montserrat', sans-serif;
+}
+
+h1{
+  color: blue;
+  font-family: monospace;
+}
+
+li{
+  color: rgb(150, 104, 218);
+}
+
+p{
+  color: #fbdc7f;
+  font-style: italic;
+  text-align: center;
+}
+
+h4{
+  color: rgba(13, 90, 140, 0.3);
+}
+
+div{
+  border: red 2px dotted;
+}
+
+span{
+  background: green;
+}
+
+.secondDiv{
+  border: blue 5px solid;
+  background: yellow;
+}
+
+#singlePara{
+  color: red;
+}
