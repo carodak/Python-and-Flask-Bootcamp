@@ -2,25 +2,16 @@
 Code that I will upload as I complete the Udemy course called "[Python and Flask Bootcamp: Create Websites using Flask!](https://www.udemy.com/course/python-and-flask-bootcamp-create-websites-using-flask/)".
 
 ## Motivation
-This project is for me to learn Flask. At first, I will see the basics of Flask and then SQL Databases with Flask and more advanced things like REST APIs.
-I will also review Python (basic and advanced), HTML, CSS and do some automation with Bootstrap 4.
-
-## Build status
-Build status of continus integration i.e. travis, appveyor etc. Ex. -
-
-[![Build Status](https://travis-ci.org/akashnimare/foco.svg?branch=master)](https://travis-ci.org/akashnimare/foco)
-[![Windows Build Status](https://ci.appveyor.com/api/projects/status/github/akashnimare/foco?branch=master&svg=true)](https://ci.appveyor.com/project/akashnimare/foco/branch/master)
-![Build Status](https://github.com/github/carodak/actions/Python-and-Flask-Bootcamp/main.yml/badge.svg)
-
+This project is for me to learn Flask. I will first review HTML, CSS, Bootstrap, Python. Next I will see the basics of Flask and then SQL Databases with Flask and more advanced things like REST APIs.
 
 ## Screenshots
-Include logo/demo screenshot etc.
+Having gifs of each completed project could be nice
 
 ## Tech/framework used
 <b>Built with</b>
 - HTML
 - CSS
-- Bootstrap 4
+- Bootstrap 5
 - Python 3
 - Flask
   - Jinja
@@ -35,7 +26,7 @@ Include logo/demo screenshot etc.
 - Front End
     - HTML
     - CSS
-    - Bootstrap 4
+    - Bootstrap 5
 - Python 3
   - Basic
     - Objects
