@@ -1,0 +1,22 @@
+{% extends "base.html" %}
+{% block content %}
+
+<p>Let's see how you performed {{username}}!</p>
+
+{% if not hasUppercase or not hasLowercase or not endsWNumber %}
+  <p>Arf, it looks like you had issues with your username!</p>
+  <p>Here are the requirements you failed: </p><ul>
+  {% if not hasUppercase %}
+    <li>You did not use an uppercase character.</li>
+  {% endif %}
+  {% if not hasLowercase %}
+    <li>You did not use a lowercase character.</li>
+  {% endif %}
+  {% if not endsWNumber %}
+    <li>You did not end your username with a number.</li>
+  {% endif %}
+  </ul>
+{% else %}
+<p>Congrats! Your username passed the 3 requirements!</p>
+{% endif %}
+{% endblock %}
